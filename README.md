@@ -29,3 +29,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## My links
 
 [angular.io guide quickstart](https://angular.io/guide/quickstart)
+
+[github augury](https://github.com/rangle/augury)
